@@ -93,10 +93,6 @@ Deployed using **Streamlit**, featuring:
 
 ---
 
-## 👩‍💻 Author
-
-**Lavanya Bhamidipati**  
-BSc Data Science & Business Analytics – Final Year Project
 
 ---
 
